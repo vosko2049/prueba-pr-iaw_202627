@@ -25,7 +25,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [MGC](files/MGC.md)
  ramajorge
 * [JMG](files/JMG.md)
-* [BPS](files/BPS.md)
 
 
 main
